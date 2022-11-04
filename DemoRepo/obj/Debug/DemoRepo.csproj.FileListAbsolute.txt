@@ -1,0 +1,8 @@
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\bin\Debug\DemoRepo.exe.config
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\bin\Debug\DemoRepo.exe
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\bin\Debug\DemoRepo.pdb
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\obj\Debug\DemoRepo.csproj.AssemblyReference.cache
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\obj\Debug\DemoRepo.csproj.SuggestedBindingRedirects.cache
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\obj\Debug\DemoRepo.csproj.CoreCompileInputs.cache
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\obj\Debug\DemoRepo.exe
+C:\Users\91910\source\repos\DemoRepo\DemoRepo\obj\Debug\DemoRepo.pdb
